@@ -1,2 +1,2 @@
 # cronometro
-app do cronometro
+app do cronometro feito em sala de aula
